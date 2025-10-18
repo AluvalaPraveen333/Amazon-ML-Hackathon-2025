@@ -9,7 +9,7 @@
 
 This repository contains the complete code, notebooks, and findings for the Amazon ML Hackathon 2025. The project is an end-to-end demonstration of a rigorous machine learning workflow, starting from a simple baseline and systematically progressing to state-of-the-art deep learning architectures and advanced ensembling methods to predict retail product prices.
 
-The project's journey is a testament to iterative development, deep experimentation, and strategic model selection, culminating in a top-tier score of **50.684** and a final rank of **967**.
+The project's journey is a testament to iterative development, deep experimentation, and strategic model selection, culminating in a top-tier score of **50.684** and a final rank of **967** out of **82k** participants.
 
 ### Table of Contents
 1.  [Project Objective](#project-objective)
