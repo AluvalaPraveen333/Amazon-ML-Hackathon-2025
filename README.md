@@ -1,4 +1,4 @@
-![Amazon ML Hackathon 2025 Banner](Banner.jpg)
+![Amazon ML Hackathon 2025 Banner](assets/Banner.jpg)
 # Amazon ML Hackathon 2025: Retail Price Prediction
 
 ### A Deep Dive into Advanced Regression and Ensembling Techniques
